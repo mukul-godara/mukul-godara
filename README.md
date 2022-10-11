@@ -25,7 +25,7 @@
 
 ![Mukul's github stats](https://github-readme-stats.vercel.app/api?username=mukul-godara&show_icons=true)
 <a href="https://wakatime.com/@mukul-godara" target="_blank">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitKrJha" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul-godara" />
 </a>
 <br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mukul-godara.mukul-godara)
